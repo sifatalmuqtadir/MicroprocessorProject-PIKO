@@ -26,7 +26,7 @@ Microprocessor-Project, PIKO is a smart Arduino-based robot that combines:
 
 ## Authors
 
-* Al Muqtadir Sifat
+* Sifat Al Muqtadir
 * Sultana Bobi
 * Nahian Islam Rishad
 * Syed Abdullah-Al Noman
